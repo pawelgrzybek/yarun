@@ -1,0 +1,10 @@
+{
+  "name": "yarun",
+  "bin": "./index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo test",
+    "yo": "echo yo",
+    "elo": "echo elo"
+  }
+}
